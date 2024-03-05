@@ -1,0 +1,21 @@
+.home-page {
+    display: flex;
+    height: 100vh;
+    margin: 0 auto;
+    margin: 2rem;
+    align-items: center;    
+    justify-content: center;    
+    border-bottom: 1px solid lightgrey;
+}
+
+.header-text,
+.header-photo {
+    text-align: center;
+    width: 100%;    
+}
+
+.header-photo img{
+    position: relative;    
+    padding: 1rem;
+    
+}
