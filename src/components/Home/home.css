@@ -1,11 +1,11 @@
 .home-page {
     display: flex;
     height: 100vh;
+    height: fit-content;
     margin: 0 auto;
     margin: 2rem;
     align-items: center;    
-    justify-content: center;    
-    border-bottom: 1px solid lightgrey;
+    justify-content: center;     
 }
 
 .header-text,
@@ -16,6 +16,11 @@
 
 .header-photo img{
     position: relative;    
-    padding: 1rem;
-    
+    padding: 1rem;    
+}
+
+@media only screen and (max-width: 870px) {
+    .home-page {
+        flex-direction: column;
+    }
 }

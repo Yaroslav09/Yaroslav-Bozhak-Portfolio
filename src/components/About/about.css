@@ -1,11 +1,11 @@
 .about-page {   
-    display: flex;
-    height: 100vh;
+    display: flex;    
+    height: fit-content;
     margin: 0 auto;
     margin: 2rem;
     align-items: center;    
-    justify-content: center;    
-    border-bottom: 1px solid lightgrey;
+    justify-content: center;        
+    text-align: justify;
 }
 .about-photo {
     text-align: center;
@@ -15,6 +15,8 @@
     width: 100%;   
 }
 
-.about-text {
-    text-align: start;
+@media only screen and (max-width: 1200px) {
+    .about-page {       
+        flex-direction: column;       
+    }
 }
