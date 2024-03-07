@@ -15,8 +15,8 @@ function ContactUs() {
     e.preventDefault();
 
     emailjs
-      .sendForm("gmail", "YOUR_TEMPLATE_ID", form.current, {
-        publicKey: "YOUR_PUBLIC_KEY",
+      .sendForm("service_wmaxr5c", "template_1tlh39j", form.current, {
+        publicKey: "WiPPmDFT5SIyu0fiZ",
       })
       .then(
         () => {
