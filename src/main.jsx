@@ -10,6 +10,8 @@ import About from './components/About/About';
 import Portfolio from './components/Portfolio/Portfolio';
 import ContactUs from './components/ContactUs/ContactUs';
 import ErrorPage from './components/ErrorPage';
+import Projects from './components/Projects/Projects';
+// import Footer from './components/Footer';
 
 
 
@@ -32,10 +34,16 @@ const router = createBrowserRouter([
         element: <Portfolio />,
       },
       {
+        path: "/Yaroslav-Bozhak-Portfolio/projects",
+        element: <Projects />,
+      },
+      {
         path: "/Yaroslav-Bozhak-Portfolio/contact",
         element: <ContactUs />,
       },
     ],
+    // path: "/Yaroslav-Bozhak-Portfolio/",
+    // element: <Footer />,
   },
 ]);
 

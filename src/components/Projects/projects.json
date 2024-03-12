@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Comfort House",
+      "deployedLink": "https://dimif.if.ua/",
+      "githubLink": "https://dimif.if.ua/",
+      "image": "/Yaroslav-Bozhak-Portfolio/src/assets/item-1.png",
+      "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 2,
+      "title": "My Portfolio",
+      "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
+      "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
+      "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+      "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },    
+    {
+        "id": 3,
+        "title": "My Portfolio",
+        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
+        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
+        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 4,
+        "title": "My Portfolio",
+        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
+        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
+        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 5,
+        "title": "My Portfolio",
+        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
+        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
+        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },      
+    {
+        "id": 6,
+        "title": "My Portfolio",
+        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
+        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
+        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }      
+
+  ]
+  
