@@ -4,7 +4,8 @@ import './home.css';
 
 const Home = () => {
   return (
-    <div className='home-page'>
+    <div className="home">
+      <div className='home-page'>
         <div className='header-text'>
             <p className='fs-1'>Hi, I am <strong>Yaroslav Bozhak</strong></p>
             <h2>Ruby, RoR Software Engineer</h2>
@@ -13,7 +14,9 @@ const Home = () => {
         <div className='header-photo'>
             <img src={HeaderPhoto}  className = 'img-fluid' alt="" />
         </div>
+      </div>
     </div>
+    
   );
 }
 

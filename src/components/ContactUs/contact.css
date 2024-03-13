@@ -1,7 +1,13 @@
-.contact-page {
-    height: fit-content;
-    margin-top: 10%;
+.contact {
+    height: 100vh;   
+    display: flex;   
+    align-items: center;    
+    justify-content: center;
+    -webkit-box-shadow: inset 0px 0px 43px -9px rgba(231,166,26,0.4);
+    -moz-box-shadow: inset 0px 0px 43px -9px rgba(231,166,26,0.4);
+    box-shadow: inset 0px 0px 43px -9px rgba(231,166,26,0.4);
 }
+
 .contact-page h2 {
     margin-bottom: 8%;
     text-align: center;
@@ -126,6 +132,9 @@ textarea {
 }
 
 @media only screen and (max-width: 1200px) {
+    .contact {
+        height: auto; 
+    }
     .contact-page h2 {
         font-size: 4rem;
     }

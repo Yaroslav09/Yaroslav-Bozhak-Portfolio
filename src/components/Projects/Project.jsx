@@ -6,14 +6,14 @@ import Card from 'react-bootstrap/Card';
 function Project({ project }) {
     return (
       <>
-        <Card style={{ width: '18rem', marginBottom: '1rem' }}>
+        <Card className='project-card' style={{ width: '18rem'}} >
           <Card.Img variant="top" src={project.image} alt={project.title} />
-          <Card.Body>
-            <Card.Title>{project.title}</Card.Title>
-            <Card.Text>{project.describe}</Card.Text>
-            <Button variant="primary" as = {Link} to={project.deployedLink} target='blank'>Go to deployed</Button>
-            <Button variant="primary" as = {Link} to={project.githubLink} target='blank'>Go to GitHub</Button>
-            <Link to={`/projects/${project.id}`}>More Details</Link>
+          <Card.Body className='card-body'>
+            <Card.Title className='project-title'>{project.title}</Card.Title>
+            <Card.Text className='project-describe'>{project.describe}</Card.Text>
+            <Button variant="primary" as = {Link} to={project.deployedLink} target='blank'className='btn-deployed'>Go to deployed</Button>
+            <Button variant="primary" as = {Link} to={project.githubLink} target='blank' className='btn-github'>Go to GitHub</Button>
+            <Button variant="primary" as = {Link} to={`/projects/${project.id}`}>More Details</Button>
           </Card.Body>
         </Card>    
       </>
