@@ -12,7 +12,7 @@
       "title": "My Portfolio",
       "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
       "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-      "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+      "image": "logo.png",
       "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
     },    
     {
@@ -20,7 +20,7 @@
         "title": "My Portfolio",
         "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
         "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "image": "logo.png",
         "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
     },
     {
@@ -28,7 +28,7 @@
         "title": "My Portfolio",
         "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
         "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "image": "logo.png",
         "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
     },
     {
@@ -36,7 +36,7 @@
         "title": "My Portfolio",
         "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
         "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "image": "logo.png",
         "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
     },      
     {
@@ -44,9 +44,10 @@
         "title": "My Portfolio",
         "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
         "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "/Yaroslav-Bozhak-Portfolio/src/assets/logo.png",
+        "image": "logo.png",
         "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
-    }      
+    }
+    
 
   ]
   
