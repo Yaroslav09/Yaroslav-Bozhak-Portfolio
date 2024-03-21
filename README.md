@@ -37,7 +37,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Badges
 
-![image](assets/Screenshot-portfolio.png)
+![image](src/assets/Screenshot-portfolio.png)
 
 ## Features
 
