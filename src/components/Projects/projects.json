@@ -3,49 +3,49 @@
       "id": 1,
       "title": "Comfort House",
       "deployedLink": "https://dimif.if.ua/",
-      "githubLink": "https://dimif.if.ua/",
+      "githubLink": "https://github.com/Yaroslav09/comfort-php",
       "image": "item-1.png",
-      "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
       "id": 2,
-      "title": "My Portfolio",
-      "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
-      "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-      "image": "logo.png",
-      "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      "title": "Currency Exchange",
+      "deployedLink": "https://dpaul93.github.io/Group-3-Project-1/",
+      "githubLink": "https://github.com/Yaroslav09/Group-3-Project-1?tab=readme-ov-file",
+      "image": "currency.png",
+      "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },    
     {
         "id": 3,
-        "title": "My Portfolio",
-        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
-        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "logo.png",
-        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "title": "Small Eventz",
+        "deployedLink": "https://incandescent-fudge-d0a729.netlify.app/",
+        "githubLink": "https://github.com/need-to-excel/Small-Eventz",
+        "image": "small-eventz.png",
+        "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": 4,
-        "title": "My Portfolio",
-        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
-        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "logo.png",
-        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "title": "Work-day scheduler",
+        "deployedLink": "https://yaroslav09.github.io/work-day-scheduler/",
+        "githubLink": "https://github.com/Yaroslav09/work-day-scheduler",
+        "image": "work_day_scheduler.jpg",
+        "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": 5,
-        "title": "My Portfolio",
-        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
-        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "logo.png",
-        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "title": "Password Generator",
+        "deployedLink": "https://yaroslav09.github.io/password_generator/",
+        "githubLink": "https://github.com/Yaroslav09/password_generator",
+        "image": "password-generator.png",
+        "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },      
     {
         "id": 6,
-        "title": "My Portfolio",
-        "deployedLink": "https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/",
-        "githubLink": "https://github.com/Yaroslav09/Yaroslav-Bozhak-Portfolio",
-        "image": "logo.png",
-        "describe": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "title": "Team Profile Generator",
+        "deployedLink": "https://youtu.be/yN2DZqs3rOk",
+        "githubLink": "https://github.com/Yaroslav09/Team-Profile-Generator",
+        "image": "team_profile.png",
+        "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
     
 
